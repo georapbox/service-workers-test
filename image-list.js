@@ -3,9 +3,9 @@ var Path = 'gallery/';
 var Gallery = {
     'images' : [
         {
-            'name'  : 'Trooper in love',
-            'alt' : 'Trooper offers flower',
-            'url': 'gallery/loveTrooper.jpg',
+            'name'  : 'Endor Speeding',
+            'alt' : 'Endor Speeding',
+            'url': 'gallery/endorSpeeding.jpg',
             'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
         },
         {
